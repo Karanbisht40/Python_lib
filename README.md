@@ -188,50 +188,6 @@ arr.reshape(2,3)
 
 ---
 
-# 🧠 AI Learning Roadmap
-
-```text
-🐍 Python
-      │
-      ▼
-📊 NumPy ✅
-      │
-      ▼
-🐼 Pandas
-      │
-      ▼
-📈 Matplotlib
-      │
-      ▼
-🎨 Seaborn
-      │
-      ▼
-🤖 Scikit-Learn
-      │
-      ▼
-🧠 Machine Learning
-      │
-      ▼
-🚀 Deep Learning
-      │
-      ▼
-✨ Generative AI
-```
-
----
-
-# 📈 Learning Progress
-
-```text
-Python            ██████████ 100%
-
-NumPy             ██████████ 100%
-
-Pandas            ░░░░░░░░░░   0%
-
-Machine Learning  ░░░░░░░░░░   0%
-```
-
 ---
 
 # 🛠 Tech Stack
@@ -251,14 +207,6 @@ If you found this repository helpful,
 🍴 Fork the repository
 
 📢 Share it with others
-
----
-
-# 👨‍💻 Author
-
-**Karan Bisht**
-
-Learning AI & Machine Learning one notebook at a time.
 
 ---
 
