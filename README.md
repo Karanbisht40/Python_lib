@@ -5,8 +5,8 @@ A beginner-friendly repository covering the complete NumPy roadmap required for 
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge&logo=python">
-<img src="https://img.shields.io/badge/NumPy-Learning-orange?style=for-the-badge&logo=numpy">
+<img src="https://fgnt.github.io/python_crashkurs_doc/_images/numpy_array_t.png">
+<img src="https://numpy.org/doc/stable/_images/broadcasting_4.png">
 <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge">
 <img src="https://img.shields.io/badge/AI-Ready-brightgreen?style=for-the-badge">
 </p>
